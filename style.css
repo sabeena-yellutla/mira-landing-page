@@ -3,8 +3,9 @@
 
 /* Added Scroll behaviour */
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
+
 /*  CSS Variables  */
 :root {
     --clr-bg: #ffffff;
