@@ -1,6 +1,10 @@
 /* Google Font  */
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap');
 
+/* Added Scroll behaviour */
+html {
+  scroll-behavior: smooth;
+}
 /*  CSS Variables  */
 :root {
     --clr-bg: #ffffff;
